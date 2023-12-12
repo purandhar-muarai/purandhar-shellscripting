@@ -1,0 +1,50 @@
+1)Which command is used to display the contents of a file in the terminal?
+a) cat
+b) ls
+c) grep
+d) cd
+2)Which command is used to create a new directory in Linux?
+a) mkdir
+b) touch
+c) cp
+d) mv
+3)What does the command "ls -l" do?
+a) List all files and directories in the current directory
+b) List files and directories in a long format with detailed information
+c) List all hidden files and directories
+d) List only directories in the current directory
+4)Which command is used to search for a specific pattern in a file?
+a) grep
+b) find
+c) sed
+d) awk
+5)Which command is used to remove a file in Linux?
+a) rm
+b) mv
+c) cp
+d) touch
+6)Which command is used to extract a compressed file?
+a) gunzip
+b) tar
+c) gzip
+d) compress
+7)What does the command "pwd" stand for?
+a) Print working directory
+b) Present working directory
+c) Pathway of working directory
+d) Previous working directory
+8)What is the purpose of the command "grep -i"?
+a) Search for a pattern in a case-sensitive manner
+b) Search for a pattern in a case-insensitive manner
+c) Search for a pattern in multiple files
+d) Search for a pattern and display only the matching lines
+9)What command is used to display the manual pages (documentation) for a specific command in Linux?
+a) info
+b) man
+c) help
+d) --help
+10)Which command is used to sort the contents of a file in ascending order and display the sorted output?
+a) sort -r
+b) sort -n
+c) sort -f
+d) sort -u
